@@ -1,0 +1,15 @@
+{
+  "name": "appbase",
+  "version": "1.0.0",
+  "description": "Simple app base",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dev": "NODE_ENV=development electron ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^12.0.5"
+  }
+}
